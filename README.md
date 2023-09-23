@@ -3,7 +3,6 @@
 ## Data Science Question
 1. Why does College-graduated-Filipino almost say to be better work to other countries?
 2. Why do parents almost say to their children to finish graduating the college?
-3. Why most of the time do people say that female is more practical than male in the Philippines?
 
 
 
