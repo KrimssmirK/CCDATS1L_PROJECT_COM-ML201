@@ -2,7 +2,7 @@
 
 ## Data Science Question
 1. Why does College-graduated-Filipino almost say to be better work to other countries?
-2. Why do parents almost say to their children to finish graduating the college?
+2. Why do parents almost say to their children to graduate the college?
 
 
 
